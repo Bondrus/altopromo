@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>student</name>
+	<displayName><![CDATA[АдминКонтроллер в модуле с хелпером]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[АдминКонтроллер в модуле с хелпером]]></description>
+	<author><![CDATA[Bondrus]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
