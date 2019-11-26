@@ -62,6 +62,8 @@ class Student extends ObjectModel
             ),
         ),
     );
+
+
     /**
     * Получить список всех учеников
     */
